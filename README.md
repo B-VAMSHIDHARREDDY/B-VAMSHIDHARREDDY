@@ -2,7 +2,7 @@
 
 🚀 **Full-stack Developer | Backend Specialist | DevOps Enthusiast**
 
-I'm a passionate full-stack developer with 3+ years of experience in designing and building scalable web applications using Python (Django, FastAPI), ReactJS, and cloud-native tools. I specialize in backend development, RESTful API design, and cloud deployment with AWS and Azure. I love solving complex problems, optimizing systems, and building secure, high-performance platforms.
+I'm a passionate full-stack developer with 4+ years of experience in designing and building scalable web applications using Python (Django, FastAPI), ReactJS, and cloud-native tools. I specialize in backend development, RESTful API design, and cloud deployment with AWS and Azure. I love solving complex problems, optimizing systems, and building secure, high-performance platforms.
 
 ---
 
