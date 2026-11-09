@@ -1,8 +1,8 @@
-# 👨‍💻 Vamshidhar Reddy Beecharlla
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Senior+Full+Stack+Developer;Python+%7C+FastAPI+%7C+Django+Engineer;React+%7C+AI+Application+Developer;Backend+Architecture+%7C+Cloud+%26+DevOps;Building+Scalable+%26+Intelligent+Solutions" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00D9FF&height=190&section=header&text=Vamshidhar%20Reddy%20Beecharlla&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Technical%20Analyst%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Builder&descSize=18&descAlignY=58" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+Technical+Analyst+%40+Stryv.ai;%24+stack+%E2%86%92+Python+%7C+FastAPI+%7C+Django+%7C+React;%24+cloud+%E2%86%92+AWS+%7C+Azure+%7C+Docker;%24+now+%E2%86%92+AI+agents+%26+LLM+workflows;%24+mission+%E2%86%92+turn+ideas+into+scalable+systems" />
 
 <br/>
 
@@ -10,117 +10,171 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamshiyvu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
 
-**5+ Years Experience | Full-Stack Engineering | AI & Automation | Cloud & DevOps**
-
 </div>
 
 ---
 
-## 🚀 About Me
+## 🖥️ `whoami`
 
-I'm a passionate **Senior Full-Stack Developer** with 5+ years of experience building scalable, secure, and high-performance software applications.
+```python
+class Developer:
+    name       = "Vamshidhar Reddy Beecharlla"
+    role       = "Technical Analyst @ Stryv.ai"
+    experience = "5+ years"
+    based_in   = "Hyderabad, India"
 
-My expertise spans backend engineering, modern frontend development, cloud infrastructure, API architecture, and AI-powered application development.
+    core_stack = ["Python", "FastAPI", "Django", "React", "PostgreSQL"]
+    cloud      = ["AWS", "Azure", "Docker Swarm", "GitLab CI/CD"]
+    currently  = ["AI agents", "LLM integrations", "workflow automation"]
 
-I enjoy turning complex ideas into practical software products, optimizing systems, automating workflows, and building solutions that make a real impact.
+    def philosophy(self):
+        return "Understand the problem deeply, then build the simplest system that scales."
+```
 
-- 🔭 Currently building scalable enterprise applications and AI-powered solutions.
-- ⚙️ Specializing in Python, FastAPI, Django, React, and PostgreSQL.
-- ☁️ Experienced in AWS, Azure, Docker, and CI/CD.
-- 🤖 Exploring AI agents, LLM integrations, and intelligent automation.
-- 🏗️ Interested in system architecture, microservices, and performance optimization.
-- 💡 Always experimenting with new technologies and ideas.
+I sit where **analysis meets engineering**: breaking down complex requirements, designing the API and data layer behind them, and shipping production-ready software. I also like automating the boring parts and experimenting with AI-assisted development.
 
 ---
 
-## 🧰 My Tech Universe
+## 🧭 How I Build
+
+```mermaid
+flowchart LR
+    A[💡 Problem] --> B[🔍 Analyse & Scope]
+    B --> C[📐 API & Data Design]
+    C --> D[⚙️ Backend Build]
+    D --> E[☁️ Deploy & Monitor]
+    E --> F[🤖 Automate & Add AI]
+    F -.feedback.-> B
+```
+
+---
+
+## 🧰 Tech Universe
 
 <div align="center">
 
-### 💻 Programming Languages
-
+**Languages**<br/>
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" />
 
-### ⚙️ Backend Development
-
+**Backend**<br/>
 <img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
 
-### 🎨 Frontend Development
-
+**Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 
-### 🗄️ Database & Data Engineering
-
+**Databases**<br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 
-### ☁️ Cloud & DevOps
-
+**Cloud & DevOps**<br/>
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,gitlab,github,linux" />
 
-### 🧪 Tools & Development
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm" />
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,pycharm" />
 
 </div>
 
-### Additional Technologies
+<details>
+<summary><b>📂 Full skill breakdown (click to expand)</b></summary>
+
+<br/>
 
 | Category | Skills |
 |---|---|
-| Backend | Django REST Framework, SQLAlchemy, REST APIs, Microservices |
-| Databases | Query Optimization, Database Design, PostgreSQL |
-| Cloud | EC2, S3, RDS, CloudWatch, Azure Functions |
-| DevOps | Docker Swarm, GitLab CI/CD, Deployment Automation |
-| Testing | PyTest, unittest, Vitest |
-| Data | Pandas, NumPy |
-| AI | LLM Integration, AI Workflows, AI Agents, Prompt Engineering |
-| Integration | Third-party APIs, Web Services, RTSP/IP Camera Integration |
-| AI Development Tools | Claude Code, AI-Assisted Development |
+| **Backend** | Django REST Framework, SQLAlchemy, REST APIs, Microservices |
+| **Databases** | PostgreSQL, Database Design, Query Optimization |
+| **Cloud** | EC2, S3, RDS, CloudWatch, Azure Functions |
+| **DevOps** | Docker Swarm, GitLab CI/CD, Deployment Automation |
+| **Testing** | PyTest, unittest, Vitest |
+| **Data** | Pandas, NumPy |
+| **AI** | LLM Integration, AI Workflows, AI Agents, Prompt Engineering |
+| **Integration** | Third-party APIs, Web Services, RTSP/IP Camera Integration |
+| **AI Dev Tools** | Claude Code, AI-Assisted Development |
+
+</details>
 
 ---
 
-## 💼 Professional Journey
+## 🛤️ Career Log
 
-**🚀 Stryv.ai | Senior Software Engineer**
+```text
+$ git log --career --oneline
+```
 
-`2024 – Present`
+| | Role | Company | Period |
+|:-:|---|---|---|
+| 🚀 | **Technical Analyst** | Stryv.ai | 2024 – Present |
+| 💻 | **Software Engineer** | SmallDay IT Services Pvt Ltd | 2021 – 2024 |
+| 🌱 | **Full Stack Developer Intern** | Palle Technologies | Early career |
 
-- Building scalable backend services using Python and FastAPI.
-- Developing cloud-based applications with Azure Functions.
-- Working on BBOS enterprise APIs and integrations.
-- Optimizing backend performance and data processing.
+<details open>
+<summary><b>🚀 Stryv.ai: Technical Analyst</b></summary>
 
-**💻 SmallDay IT Services Pvt Ltd | Software Engineer**
+<br/>
 
-`2021 – 2024`
+- Analysing requirements and translating them into scalable backend services with **Python & FastAPI**
+- Building cloud-based applications with **Azure Functions**
+- Working on **BBOS enterprise APIs** and integrations
+- Optimising backend performance and data processing
 
-- Developed CodexPro.ai, a coding and MCQ assessment platform.
-- Built backend services and RESTful APIs.
-- Deployed applications using AWS and Docker Swarm.
-- Improved deployment workflows and application performance.
+</details>
 
-**🌱 Palle Technologies | Full Stack Developer Intern**
+<details>
+<summary><b>💻 SmallDay IT Services: Software Engineer</b></summary>
 
-- Developed a family expense tracking application.
-- Implemented backend functionality using Django and MySQL.
-- Worked on frontend and database integration.
+<br/>
+
+- Built **CodexPro.ai**, a coding and MCQ assessment platform
+- Developed backend services and RESTful APIs
+- Deployed applications using **AWS and Docker Swarm**
+- Improved deployment workflows and application performance
+
+</details>
+
+<details>
+<summary><b>🌱 Palle Technologies: Full Stack Developer Intern</b></summary>
+
+<br/>
+
+- Built a family expense tracking application
+- Implemented backend functionality with **Django and MySQL**
+- Worked on frontend and database integration
+
+</details>
 
 ---
 
-## 🏆 Achievements & Impact
+## 🏆 Impact in Numbers
 
 <div align="center">
 
-| 🚀 70% | ⚡ 10K+ | ☁️ AWS |
+| 🚀 **70%** | ⚡ **10K+** | ☁️ **AWS** |
 |:---:|:---:|:---:|
-| Faster Deployments | Records Processed | Cloud Monitoring |
+| Faster deployments<br/>with Docker Swarm | Records processed<br/>with Pandas | Logging & monitoring<br/>via CloudWatch |
 
 </div>
 
-- Reduced deployment time by 70% using Docker Swarm.
-- Improved data processing workflows handling 10K+ records using Pandas.
-- Automated application logging and monitoring using AWS CloudWatch.
-- Developed scalable REST APIs and production-ready applications.
+---
+
+## 🔭 Currently Exploring
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/AI-Application_Development-8A2BE2?style=for-the-badge)
+![Agents](https://img.shields.io/badge/AI-Agents-00A6ED?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Integrations-FF8C00?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Workflow-Automation-00C853?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/System-Architecture-007ACC?style=for-the-badge)
+
+</div>
+
+```yaml
+loading:
+  ai_saas_products:      "████████░░  80%"
+  multi_agent_systems:   "██████░░░░  60%"
+  scalable_backends:     "█████████░  90%"
+  cloud_automation:      "███████░░░  70%"
+  ai_assisted_coding:    "████████░░  80%"
+```
 
 ---
 
@@ -129,7 +183,6 @@ I enjoy turning complex ideas into practical software products, optimizing syste
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
@@ -140,31 +193,11 @@ I enjoy turning complex ideas into practical software products, optimizing syste
 
 ---
 
-## 🎯 Currently Exploring
+## 🤝 Let's Build Something
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/AI-Application_Development-8A2BE2?style=flat-square)
-![Agents](https://img.shields.io/badge/AI-Agents-00A6ED?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM-Integrations-FF8C00?style=flat-square)
-![Automation](https://img.shields.io/badge/Workflow-Automation-00C853?style=flat-square)
-![Architecture](https://img.shields.io/badge/System-Architecture-007ACC?style=flat-square)
-
-</div>
-
-- Building AI-powered SaaS applications.
-- Exploring multi-agent systems and intelligent workflows.
-- Designing scalable backend architectures.
-- Improving cloud infrastructure and automation.
-- Experimenting with AI-assisted software engineering.
-
----
-
-## 🤝 Let's Connect & Build Something Great!
-
-<div align="center">
-
-**Have an interesting idea, project, or collaboration in mind? Let's connect!**
+Got an idea, a messy problem, or a project that needs structure? Let's talk.
 
 <a href="mailto:vamshiyvu@gmail.com">
 <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -175,8 +208,8 @@ I enjoy turning complex ideas into practical software products, optimizing syste
 
 <br/><br/>
 
-### 💡 "Turning Ideas Into Scalable Solutions."
+### 💡 *"Analyse first. Build smart. Scale with confidence."*
 
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:203A43,100:0F2027&height=110&section=footer" />
 
 </div>
