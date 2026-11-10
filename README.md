@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vamshi-fullstack-developer/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamshiyvu@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/B-VAMSHIDHARREDDY)
 
 </div>
 
@@ -182,14 +182,15 @@ loading:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=B-VAMSHIDHARREDDY&theme=tokyonight&hide_border=true&starting_year=2021" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="95%" src="https://ghchart.rshah.org/00D9FF/B-VAMSHIDHARREDDY" alt="Contribution chart" />
 
 </div>
+
+<sub>📌 Private-repo contributions only count if "Show private contributions" is enabled in your GitHub profile settings.</sub>
 
 ---
 
